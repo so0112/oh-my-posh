@@ -21,7 +21,7 @@
           "foreground": "#26C6DA",
           "powerline_symbol": "\ue0b0",
           "style": "powerline",
-          "template": "{{  .UserName  }}",
+          "template": " SSO ",
           "type": "session"
         },
         {
