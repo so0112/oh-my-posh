@@ -1,4 +1,4 @@
-window posh 적용 방법 작성중...
+[posh 공식문서 링크](https://ohmyposh.dev/)
 
 #
 
